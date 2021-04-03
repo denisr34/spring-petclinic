@@ -17,7 +17,7 @@
 # specific language governing permissions and limitations
 # under the License.
 # ----------------------------------------------------------------------------
-g
+g c
 # ----------------------------------------------------------------------------
 # Maven Start Up Batch script
 #
